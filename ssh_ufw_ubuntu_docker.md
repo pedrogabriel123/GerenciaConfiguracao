@@ -4,7 +4,7 @@
 
 Este documento apresenta os passos para criar dois contêineres Ubuntu 24.04, instalar e configurar o serviço SSH, permitir a comunicação remota entre os contêineres e configurar regras básicas de firewall com UFW.
 
-A atividade reúne conceitos estudados em Gerência e Configuração de Sistemas (GCSI): Docker, APT, usuários e permissões, serviços (`service` e `systemctl`), portas, SSH, UFW, `curl` e `wget`.
+A atividade reúne conceitos estudados em Gerência e Configuração de Sistemas para Internet (GCSI): Docker, APT, usuários e permissões, serviços (`service` e `systemctl`), portas, SSH, UFW, `curl` e `wget`.
 
 ## 2. Conceitos essenciais
 
