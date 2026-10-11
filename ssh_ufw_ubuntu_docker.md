@@ -643,5 +643,3 @@ A remoção dos contêineres apaga as alterações feitas apenas no sistema de a
 - Ubuntu Server — OpenSSH: https://documentation.ubuntu.com/server/how-to/security/openssh-server/
 
 ---
-
-**Observação para a entrega:** execute e confira os comandos no ambiente disponível antes de afirmar que todos os testes foram concluídos. O comportamento de UFW e de serviços em contêineres pode depender das capacidades concedidas pelo Docker e da configuração do hospedeiro.
